@@ -1,4 +1,4 @@
 #Administrador de Servidores
 
-*[Particionamiento HD] (particionamiento.md)
-*[virtualizacion] (virtualizacion.md)
+* [Particionamiento HD] (particionamiento.md)
+* [virtualizacion] (virtualizacion.md)
